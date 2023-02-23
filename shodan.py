@@ -1,7 +1,7 @@
 import requests
 import json
 
-KEY = "mudRiVlGm5bduKS3CH8A63sJenPswOrm"
+KEY = "[your api key]"
 
 class Shodan_Integrations:
     class Notifier:
